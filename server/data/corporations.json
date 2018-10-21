@@ -1,0 +1,22 @@
+[
+      {
+            "id": 1,
+            "name": "Google",
+            "city": "Mountain View"
+      },
+      {
+            "id": 2,
+            "name": "Microsoft",
+            "city": "Redmond"
+      },
+      {
+            "id": 3,
+            "name": "Apple",
+            "city": "Cupertino"
+      },
+      {
+            "id": 4,
+            "name": "Amazon",
+            "city": "Seattle"
+      }
+]
